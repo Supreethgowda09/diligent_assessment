@@ -1,0 +1,6 @@
+id,order_id,payment_method,amount,status
+1,1,UPI,1497,Success
+2,2,Credit Card,1299,Success
+3,3,UPI,196,Success
+4,4,Net Banking,199,Failed
+5,5,UPI,599,Success
